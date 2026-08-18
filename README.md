@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=Shivansh%20Gupta&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Data%20%26%20Product%20Engineering&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=Shivansh%20Gupta&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Business%20%26%20Data%20Analyst%20%7C%20AI%2FML%20%7C%20Analytics%20%26%20Consulting&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Electrical+Engineering+%40+DTU;Data+Science+%40+IIT+Madras;Software+%26+Backend+Engineering;AI%2FML+%26+Business+Analytics;Building+Data-Driven+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Electrical+Engineering+%40+DTU;Data+Science+%40+IIT+Madras;Business+%26+Data+Analytics;AI%2FML+for+Business+Decisions;Stakeholder-Ready+Insights" alt="Typing SVG" />
 
 <br/>
 
@@ -13,7 +13,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/shivanshgupta0007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivansh-gupta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-gupta-691234344)
 [![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshgupta0007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanshgupta0007)
 
@@ -29,24 +29,24 @@
 
 # About
 
-I am an **Electrical Engineering undergraduate at Delhi Technological University** and a **Data Science & Applications student at IIT Madras**, focused on building reliable software systems, data-driven products, and applied machine learning solutions.
+I am an **Electrical Engineering undergraduate at Delhi Technological University** and a **Data Science & Applications student at IIT Madras**, focused on turning raw, unstructured business and healthcare data into clear, stakeholder-ready decisions.
 
-My work sits at the intersection of **software engineering, AI/ML, business analytics, and product engineering**. I enjoy taking problems from raw requirements and unstructured data through system design, implementation, experimentation, analytics, and measurable outcomes.
+My work sits at the intersection of **business analytics, data science, and applied machine learning**. I enjoy taking a problem from raw requirements and messy data through exploratory analysis, modeling, and measurable, decision-ready outcomes.
 
-My engineering experience includes **FastAPI, Flask, REST APIs, SQL, SQLite, Redis, Celery, Vue.js, JavaScript, Python, Git, and Linux**, alongside applied analytics and machine learning using **Pandas, NumPy, Scikit-learn, XGBoost, and LightGBM**.
+My core toolkit is **Python and SQL** for analysis and reporting, supported by **Pandas, NumPy, Scikit-learn, XGBoost, and LightGBM** for predictive and customer analytics, and Power BI for stakeholder communication.
 
-I approach engineering with a product mindset: understand the problem, model the requirements, build the system, measure performance, and continuously improve it.
+I approach every problem with a business-first mindset: understand the question the stakeholder is really asking, model the data around it, and turn the output into a recommendation someone can act on.
 
 ### Open To
 
-- Software Engineering
-- Backend Engineering
-- Data Science & Analytics
-- AI / Machine Learning
-- Product Engineering
 - Business Analytics
-- Research & Engineering Opportunities
-- Open Source Collaboration
+- Data Analyst
+- Data Science
+- AI / Machine Learning
+- Business & Management Consulting
+- Product Analytics
+- Research & Analytics Opportunities
+- Case Competitions
 
 ---
 
@@ -90,16 +90,14 @@ I approach engineering with a product mindset: understand the problem, model the
 
 ![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4C1D95?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-312E81?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4C1D95?style=flat-square&logo=vuedotjs&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-6D28D9?style=flat-square&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-312E81?style=flat-square&logo=celery&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-312E81?style=flat-square&logo=powerbi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-4C1D95?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-6D28D9?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-312E81?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-4C1D95?style=flat-square)
 ![LightGBM](https://img.shields.io/badge/LightGBM-6D28D9?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-4C1D95?style=flat-square&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-312E81?style=flat-square&logo=linux&logoColor=white)
 
@@ -107,18 +105,18 @@ I approach engineering with a product mindset: understand the problem, model the
 
 ---
 
-# AI / ML Expertise
+# Analytics & AI/ML Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
+| Business Analytics | Advanced | Data-driven decision making, stakeholder reporting and operational analytics |
+| Customer Analytics | Advanced | Customer segmentation, RFM analysis, repeat-visit analysis and cross-sell analytics |
+| Data Analysis | Advanced | Python, SQL, Pandas, NumPy, exploratory data analysis and statistical interpretation |
+| Predictive Analytics | Advanced | Regression, predictive modeling, feature engineering, performance optimization |
 | Machine Learning | Advanced | Supervised & unsupervised learning, model evaluation, cross-validation, hyperparameter tuning |
 | Ensemble Modeling | Advanced | XGBoost, LightGBM, ensemble optimization, feature selection |
-| Predictive Analytics | Advanced | Regression, predictive modeling, feature engineering, performance optimization |
-| Data Analysis | Advanced | Python, Pandas, NumPy, exploratory data analysis and statistical interpretation |
-| Customer Analytics | Advanced | Customer segmentation, RFM analysis, repeat-visit analysis and cross-sell analytics |
 | Feature Engineering | Advanced | Target encoding, log transformation, normalization, scaling and engineered features |
 | Model Evaluation | Advanced | RMSLE, validation strategies, cross-validation and performance benchmarking |
-| Business Analytics | Advanced | Data-driven decision making, stakeholder reporting and operational analytics |
 | Statistical Analysis | Intermediate | Hypothesis testing, statistical modeling and analytical interpretation |
 | Computer Vision / Deep Learning | Working Knowledge | Applied ML foundation and continued exploration of modern AI methods |
 
@@ -138,11 +136,10 @@ An end-to-end machine learning regression solution developed for a Kaggle heavy 
 | **Stack** | Python, Pandas, NumPy, XGBoost, LightGBM, Scikit-learn |
 | **Scale** | Multi-attribute heavy equipment pricing dataset |
 | **Performance** | RMSLE improved from **0.69 → 0.19** |
-| **Security** | Reproducible preprocessing and structured modeling pipeline |
 | **Impact** | Significant improvement in predictive accuracy through feature engineering and ensemble optimization |
-| **Repository** | [GitHub](https://github.com/shivanshgupta0007) |
+| **Repository** | [Kaggle Competition](https://www.kaggle.com/competitions/heavy-equipment-selling-price-prediction-challenge) |
 
-### Engineering
+### Approach
 
 - Built an end-to-end regression pipeline for heavy equipment price prediction.
 - Applied target encoding, `log1p` transformation and feature engineering.
@@ -164,20 +161,15 @@ A full-stack recruitment workflow and analytics platform designed to centralize 
 |---|---|
 | **Stack** | Python, FastAPI, SQL, REST APIs, Flask, Vue.js, SQLite, Redis, Celery, JWT, JavaScript |
 | **Scale** | Multi-role recruitment workflow platform |
-| **Performance** | Redis caching and Celery background processing |
-| **Security** | JWT authentication, role-based access control and validation |
 | **Impact** | Centralized recruitment workflows and administrative analytics |
-| **Repository** | [GitHub](https://github.com/shivanshgupta0007) |
+| **Repository** | [GitHub](https://github.com/shivanshgupta0007/Placement-Portal-Application) |
 
-### Engineering
+### Approach
 
-- Architected a recruitment platform using **FastAPI** and a normalized relational SQL schema.
-- Implemented JWT-based authentication across student, recruiter and admin workflows.
-- Designed secure role-based access controls and request validation.
+- Designed a recruitment platform with a normalized relational SQL schema.
+- Implemented role-based access across student, recruiter and admin workflows.
 - Built an interactive administrative analytics dashboard.
 - Added dynamic search, multi-criteria filtering and custom metrics.
-- Integrated Redis caching and Celery-based asynchronous processing.
-- Structured the application around maintainable REST APIs and modular backend components.
 
 </details>
 
@@ -192,20 +184,14 @@ A full-stack trekking management application supporting authentication, reservat
 |---|---|
 | **Stack** | Flask, Vue.js, SQLite, Redis, Celery, REST APIs, JWT, Pandas, NumPy, JavaScript, SQLAlchemy, Bootstrap |
 | **Scale** | Full-stack reservation and administration platform |
-| **Performance** | Redis caching and Celery background workers |
-| **Security** | JWT authentication and role-based access control |
 | **Impact** | Streamlined trek reservations and operator management |
-| **Repository** | [GitHub](https://github.com/shivanshgupta0007) |
+| **Repository** | [GitHub](https://github.com/shivanshgupta0007/Trekking-Management-Application) |
 
-### Engineering
+### Approach
 
-- Developed a full-stack trekking portal using **Flask and Vue.js**.
-- Implemented JWT authentication and secure role-based authorization.
 - Built trek reservation and administrative management workflows.
 - Designed REST APIs backed by SQLite and SQLAlchemy.
-- Integrated Redis caching to improve backend responsiveness.
-- Added Celery workers for asynchronous task execution.
-- Used structured frontend and backend components for maintainable application development.
+- Improved responsiveness with Redis caching and Celery background workers.
 
 </details>
 
@@ -220,18 +206,13 @@ A hardware security system designed, prototyped and calibrated for continuous la
 |---|---|
 | **Stack** | Breadboarding, Photodetectors, Analog Circuits, PCB Design, Soldering, Instrumentation |
 | **Scale** | Solo hardware build |
-| **Performance** | Continuous optical intrusion detection |
-| **Security** | Dedicated physical intrusion-detection architecture |
 | **Impact** | Reliable real-time security monitoring through optical detection |
-| **Repository** | [GitHub](https://github.com/shivanshgupta0007) |
 
-### Engineering
+### Approach
 
 - Designed and prototyped a laser-based intrusion detection system.
 - Integrated optical photodetectors with analog signal-conditioning circuits.
-- Built and tested the prototype on breadboard before PCB implementation.
 - Performed calibration, circuit testing and instrumentation.
-- Completed soldering and hardware integration as a solo engineering build.
 
 </details>
 
@@ -251,7 +232,6 @@ Business analytics role focused on healthcare data, customer behavior, operation
 - Executed customer segmentation and **RFM-based repeat-visit analysis**.
 - Evaluated customer retention drivers and cross-selling opportunities.
 - Translated analytical findings into stakeholder-ready recommendations.
-- Applied data-driven approaches to support business and operational decision making.
 
 **Skills:** `Python` `SQL` `EDA` `RFM Analysis` `Customer Segmentation` `Business Analytics` `Predictive Analytics` `Stakeholder Reporting`
 
@@ -267,12 +247,10 @@ Research focused on III-V semiconductor devices, RF systems and fabrication meth
 
 - Evaluated **InP-based High Electron Mobility Transistors (HEMTs)** for high-frequency RF systems.
 - Conducted experimental analysis and physical device characterization.
-- Performed systematic performance benchmarking against baseline devices.
 - Investigated **Molecular Beam Epitaxy (MBE)** growth methodologies for III-V compound semiconductors.
 - Documented process parameters to improve material yield and operational stability.
-- Studied relationships between fabrication parameters, material quality and device performance consistency.
 
-**Skills:** `InP HEMTs` `MBE` `III-V Semiconductors` `RF Systems` `Device Characterization` `Experimental Analysis` `Semiconductor Fabrication`
+**Skills:** `InP HEMTs` `MBE` `III-V Semiconductors` `RF Systems` `Device Characterization` `Experimental Analysis`
 
 ---
 
@@ -309,16 +287,15 @@ Research focused on III-V semiconductor devices, RF systems and fabrication meth
 
 ---
 
-# Coding Profiles
+# Analytics Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-312E81?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-6D28D9?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile%20%26%20Competitions-6D28D9?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shivanshgupta0007)
 
 </div>
+
+> Note: I used `kaggle.com/shivanshgupta0007` as your Kaggle handle to match your GitHub username — swap this for your real Kaggle profile URL if it differs.
 
 ---
 
@@ -374,31 +351,29 @@ Research focused on III-V semiconductor devices, RF systems and fabrication meth
 
 ```yaml
 Learning:
-  - Advanced Machine Learning
+  - Advanced Business Analytics
   - Data Science
-  - Backend Architecture
-  - System Design
   - Statistical Modeling
+  - Machine Learning
 
 Building:
-  - Data-driven applications
-  - Full-stack platforms
-  - Analytics systems
-  - Machine learning pipelines
+  - Data-driven dashboards
+  - Analytics pipelines
+  - Predictive models
+  - Stakeholder reporting tools
 
 Exploring:
-  - AI Engineering
-  - Product Engineering
-  - Distributed Systems
+  - AI for Business Decisions
+  - Product Analytics
   - Applied AI/ML
   - Semiconductor & RF Systems
 
 Open To:
-  - Software Engineering
-  - Backend Engineering
-  - AI/ML
-  - Data Science
   - Business Analytics
-  - Product Engineering
+  - Data Analyst
+  - Data Science
+  - AI/ML
+  - Consulting
+  - Product Analytics
   - Research
-  - Open Source
+```
